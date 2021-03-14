@@ -4,8 +4,8 @@
 // To run under docker:
 // docker run -v $PWD:/code php:7.3.2-alpine php /code/code_sample.php
 
-$username = 'papi01';
-$password = 'Admin@papi.co.zw';
+$username = 'username';
+$password = 'pass';
 $messages = array(
   array('to'=>'+919758463790', 'body'=>'With country code')
 );  
